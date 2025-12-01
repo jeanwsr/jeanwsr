@@ -8,7 +8,7 @@ Research topics
 
 Elsewhere [gitlab.com/jeanwsr](https://gitlab.com/jeanwsr)  |  [git.nju.edu.cn/wsr](https://git.nju.edu.cn/wsr)  |  [bbs.keinsci.com/?5840](http://bbs.keinsci.com/?5840)
 
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeanwsr)
+ ![Anurag's github stats](https://github-readme-stats-one-omega-58.vercel.app/api?username=jeanwsr)
  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebrewsnabla)&count_private=true&show_icons=true
  
 <p align="center"> 
