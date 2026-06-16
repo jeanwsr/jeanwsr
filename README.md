@@ -1,7 +1,8 @@
 ### Hi there 👋
 My experience
 * 2016-2020, Physics Bsc @ NJU
-* 2020-, Chem PhD candidate @ Fudan
+* 2020-2025, Chem PhD candidate @ Fudan
+* 2025-, Postdoc @ Fudan
 
 Research topics
 * Multireference QC methods
