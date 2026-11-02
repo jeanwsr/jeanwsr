@@ -5,8 +5,9 @@ My experience
 * 2025-, Postdoc @ Fudan
 
 Research topics
-* Multireference QC methods
-* PySCF Development
+* Multireference QC methods and double hybrids
+
+Developer of PySCF
 
 <!--Elsewhere [gitlab.com/jeanwsr](https://gitlab.com/jeanwsr)  |  [git.nju.edu.cn/wsr](https://git.nju.edu.cn/wsr)  |  [bbs.keinsci.com/?5840](http://bbs.keinsci.com/?5840)-->
 
