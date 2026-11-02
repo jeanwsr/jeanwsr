@@ -6,6 +6,7 @@ My experience
 
 Research topics
 * Multireference QC methods
+* PySCF Development
 
 Elsewhere [gitlab.com/jeanwsr](https://gitlab.com/jeanwsr)  |  [git.nju.edu.cn/wsr](https://git.nju.edu.cn/wsr)  |  [bbs.keinsci.com/?5840](http://bbs.keinsci.com/?5840)
 
@@ -16,18 +17,4 @@ Elsewhere [gitlab.com/jeanwsr](https://gitlab.com/jeanwsr)  |  [git.nju.edu.cn/w
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/hebrewsnabla/count.svg" />
 </p>
--->
-<!--
-**hebrewsnabla/hebrewsnabla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
